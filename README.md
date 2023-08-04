@@ -31,3 +31,20 @@
 
 11. What is the tenure dictribution for each department?
 
+
+# Summary of Findings
+- There are more male employees
+- White race is the most dominant while Native Hawaiian and American Indian and the least dominant
+- The youngest employee is 20 years old whiles the oldest is 57 years old
+- 5 age groups were created (18-24, 25-34, 35-44, 45-54, 55-64). A large number of employees are between 25-34 whiles the smallest group is 55-64
+- A large number of employees work at Headquarters as compared to remote
+- The average length of employment for terminated employees is 8 years.
+- A large number of employees come from Ohio state
+- The net change in employees has increased overtime
+- The average tenure for each department is about 8 years with Legal and Auditing with the highest and Services, Sales and Marketing with the lowest.
+
+
+# Limitations
+- Some records had negative ages and these were excluded during querying. Ages used are 18 and above.
+- Some termdates were far in the future and were not included in the analysis. The only termdates used were those less than or equal to the current date.
+
